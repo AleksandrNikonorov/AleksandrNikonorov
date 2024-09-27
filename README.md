@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! 👋 Я Алексей
 
-<!--
-**AlexeyBudarov/AlexeyBudarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — Data Scientist
 
-Here are some ideas to get you started:
+## Мои интересы
+- Машинное обучение и искусственный интеллект 🤖
+- Анализ данных 📊
+- Статистика и эконометрика
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Как связаться со мной
+- Mail: a.budarov.mfv@mail.ru
+- Telegram: https://t.me/Alexey_Budarov
+
+## Статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true)
