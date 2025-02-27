@@ -1,8 +1,8 @@
-# Привет! 👋 Я Алексей Бударов
+# Hello! 👋 I'm Aleksandr Nikonorov
 
-Моя спецификация - Data Science, Ml
+My specialization is Data Science and ML.
 
-Учaствую в соревнованиях по ml на Kaggle, Driven Data. С большим удовольствием посещаю Ml ивенты, лекции и хакатоны
+I participate in ML competitions on Kaggle and DrivenData. I thoroughly enjoy attending ML events, lectures, and hackathons.
 
 ## 🛠️ Tech Stack
 
@@ -10,15 +10,14 @@
 
 - **Libraries**:  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)  ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)  ![Statsmodels](https://img.shields.io/badge/-Statsmodels-AB5437?style=flat-square&logo=python&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  ![CatBoost](https://img.shields.io/badge/-CatBoost-EB5B28?style=flat-square&logo=catboost&logoColor=white)
 
-  
 - **Databases**:  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   
 
-## Мои интересы
-- Машинное обучение и искусственный интеллект 🤖
-- Анализ данных 📊
-- Статистика и эконометрика
+## My Interests
+- Machine Learning and Artificial Intelligence 🤖
+- Data Analysis 📊
+- Statistics and Econometrics
 
-## 📫 Как связаться со мной
-- Mail: a.budarov.mfv@mail.ru
-- Telegram: https://t.me/Alexey_Budarov
+## 📫 How to Contact Me
+- Email: alnikom4082@gmail.com
+
